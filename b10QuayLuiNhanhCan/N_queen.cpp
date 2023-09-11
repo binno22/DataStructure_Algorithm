@@ -34,7 +34,7 @@ void Try(int i){
 
 int main(int argc, char const *argv[])
 {
-	ios_base::sync_with_stdio(false);
+    ios_base::sync_with_stdio(false);
     cin.tie(NULL);
     int t; cin >> t;
     while(t--){
